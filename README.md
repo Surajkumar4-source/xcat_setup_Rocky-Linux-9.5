@@ -1,4 +1,4 @@
-# 🎓 COMPLETE xCAT SETUP GUIDE 
+<img width="1853" height="1023" alt="Screenshot 2026-08-19 110819" src="https://github.com/user-attachments/assets/d24af2f2-116c-4252-b92a-4073c67ca632" /># 🎓 COMPLETE xCAT SETUP GUIDE 
 ## Rocky Linux 9.5 — Management Node + Compute Node (Diskful Install)
 ### 📘 For Beginners — Copy-Paste Ready — All Known Issues Pre-Fixed
 
@@ -541,5 +541,267 @@ ssh compute01 "cat /etc/os-release | head -4"
 ---
 
 These are the commands that administrators use most frequently in day-to-day xCAT management.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+<br>
+<br>
+
+
+
+
+
+
+### Unified Dashboard Snapshots 
+---
+<br>
+<br>
+
+## 1. ====== 📊 Dashboard Overview ====== 
+---
+
+
+<img width="1853" height="1023" alt="Screenshot 2026-08-19 110819" src="https://github.com/user-attachments/assets/77dcc413-ed80-4698-a0b1-5f5e9c1fdd77" />
+
+
+
+<br>
+
+
+<img width="1853" height="1020" alt="Screenshot 2026-08-19 110848" src="https://github.com/user-attachments/assets/053d0dfd-581e-4ebb-b899-91079c0b4f1e" />
+
+
+
+<br>
+<br>
+
+## 2. ======  💓 Health Check ======
+---
+
+<br>
+
+
+<img width="1844" height="1015" alt="Screenshot 2026-08-19 111117" src="https://github.com/user-attachments/assets/d345b8b2-7ca6-43fd-bfe6-a1895fb26c06" />
+
+
+
+<br>
+<br>
+
+## 3. ====== 🖥️ Node List ======  
+---
+
+<br>
+
+<img width="1850" height="1015" alt="Screenshot 2026-08-19 111342" src="https://github.com/user-attachments/assets/89ee15a0-48b8-40a9-8dce-0adec9bd6e93" />
+
+
+
+<br>
+<br>
+
+## 4. ====== ➕ Add Node ======  
+---
+<br>
+
+
+<img width="1848" height="1019" alt="Screenshot 2026-08-19 111525" src="https://github.com/user-attachments/assets/512ce34c-4a8d-4a46-97a2-d6546e87ecfe" />
+
+
+
+
+<br>
+<br>
+
+
+## 5. ====== 📦 Bulk Add Nodes ======  
+---
+<br>
+
+
+
+<img width="1853" height="1006" alt="Screenshot 2026-08-19 111544" src="https://github.com/user-attachments/assets/8ab14199-c20c-42a0-903e-af556f172d7c" />
+
+
+
+<br>
+<br>
+
+
+
+## 6. ====== 🚀 Provision ======  
+---
+<br>
+
+
+<img width="1845" height="1016" alt="Screenshot 2026-08-19 111930" src="https://github.com/user-attachments/assets/36a862a3-737f-4fbc-887a-7ec41836168e" />
+
+
+
+<br>
+<br>
+
+
+
+## 7. ====== 💻 Remote Command ======  
+---
+<br>
+
+
+<img width="1852" height="1017" alt="Screenshot 2026-08-19 111947" src="https://github.com/user-attachments/assets/b09e5b20-5477-43d2-96d9-5a29ff021d31" />
+
+
+
+<br>
+<br>
+
+
+
+## 8. ====== 🔑 SSH Key Setup ======  
+---
+<br>
+
+
+<img width="1852" height="1018" alt="Screenshot 2026-08-19 112008" src="https://github.com/user-attachments/assets/84dc5d9d-586d-49c0-97c4-10bc12bee8ca" />
+
+
+
+<br>
+<br>
+
+
+
+## 9. ====== ⚙️ Services ======  
+---
+<br>
+
+<img width="1849" height="1012" alt="Screenshot 2026-08-19 112256" src="https://github.com/user-attachments/assets/07847111-b624-403e-8a31-edc8044c2aff" />
+
+
+
+<br>
+<br>
+
+
+
+## 10. ====== 💿 OS Images ======  
+---
+<br>
+
+
+<img width="1846" height="1012" alt="Screenshot 2026-08-19 112317" src="https://github.com/user-attachments/assets/b28b0624-bf4c-4804-8af7-e9bafffd5abf" />
+
+
+
+<br>
+<br>
+
+
+
+## 11. ====== 🌐 Networks ======
+---
+
+<br>
+
+
+<img width="1841" height="1017" alt="Screenshot 2026-08-19 112342" src="https://github.com/user-attachments/assets/14cf1319-1df3-406a-ba99-49ce531c93e8" />
+
+
+<br>
+<br>
+
+
+
+
+
+
+## 11. ====== 🔄 Rebuild Services ======
+---
+
+<br>
+
+
+<img width="1855" height="1005" alt="Screenshot 2026-08-19 112410" src="https://github.com/user-attachments/assets/0bdc8556-17ae-40c5-a903-695726298876" />
+
+
+<br>
+<br>
+
+
+
+
+
+## 11. ====== 📜 Logs ======
+---
+
+<br>
+
+<img width="1846" height="1020" alt="Screenshot 2026-08-19 112446" src="https://github.com/user-attachments/assets/4f630c8b-b47b-46aa-b403-85e345abe0c9" />
+
+
+
+<br>
+<br>
+
+
+
+
+
+
+## 11. ====== 🗄️ xCAT Tables ======
+---
+
+<br>
+
+<img width="1842" height="1016" alt="Screenshot 2026-08-19 112505" src="https://github.com/user-attachments/assets/fd00fa13-cdba-4a5b-9864-69ff266f6cce" />
+
+
+
+<br>
+<br>
+
+
+
+
+
+## 11. ====== 🎬 Live Boot Console ======
+---
+
+<br>
+
+<img width="1845" height="1009" alt="Screenshot 2026-08-19 112606" src="https://github.com/user-attachments/assets/ccd9fb31-588d-4795-b1f6-437f1e725526" />
+
+
+
+<br>
+<br>
+
+
+
+## 11. ====== 🏗️ Cluster Architecture ======
+---
+
+<br>
+
+
+<img width="1848" height="1020" alt="Screenshot 2026-08-19 112732" src="https://github.com/user-attachments/assets/72fb08d4-7d82-4345-be02-57ecbad2508e" />
+
+
+<br>
+<br>
 
 
