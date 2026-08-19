@@ -811,3 +811,20 @@ These are the commands that administrators use most frequently in day-to-day xCA
 <br>
 
 
+
+
+
+<br>
+<br>
+
+## Compute Node Provisioning Demo
+---
+
+
+
+
+https://github.com/user-attachments/assets/a417ecc7-abc2-4f08-8b4b-a842760a5a1f
+
+
+
+
