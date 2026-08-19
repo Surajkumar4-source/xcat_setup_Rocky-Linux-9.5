@@ -586,6 +586,11 @@ These are the commands that administrators use most frequently in day-to-day xCA
 <img width="1853" height="1020" alt="Screenshot 2026-08-19 110848" src="https://github.com/user-attachments/assets/053d0dfd-581e-4ebb-b899-91079c0b4f1e" />
 
 
+<br>
+<br>
+
+<img width="1844" height="999" alt="{58A5197A-B304-43E6-9441-E4205571BCC6}" src="https://github.com/user-attachments/assets/d7a6cb7d-3053-45a4-ba1b-229f5a0e8ac0" />
+
 
 <br>
 <br>
