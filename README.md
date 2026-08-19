@@ -729,7 +729,7 @@ These are the commands that administrators use most frequently in day-to-day xCA
 
 
 
-## 11. ====== 🔄 Rebuild Services ======
+## 12. ====== 🔄 Rebuild Services ======
 ---
 
 <br>
@@ -745,7 +745,7 @@ These are the commands that administrators use most frequently in day-to-day xCA
 
 
 
-## 11. ====== 📜 Logs ======
+## 13. ====== 📜 Logs ======
 ---
 
 <br>
@@ -762,7 +762,7 @@ These are the commands that administrators use most frequently in day-to-day xCA
 
 
 
-## 11. ====== 🗄️ xCAT Tables ======
+## 14. ====== 🗄️ xCAT Tables ======
 ---
 
 <br>
@@ -778,7 +778,7 @@ These are the commands that administrators use most frequently in day-to-day xCA
 
 
 
-## 11. ====== 🎬 Live Boot Console ======
+## 15. ====== 🎬 Live Boot Console ======
 ---
 
 <br>
@@ -792,7 +792,7 @@ These are the commands that administrators use most frequently in day-to-day xCA
 
 
 
-## 11. ====== 🏗️ Cluster Architecture ======
+## 16. ====== 🏗️ Cluster Architecture ======
 ---
 
 <br>
