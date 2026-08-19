@@ -1,4 +1,5 @@
-<img width="1853" height="1023" alt="Screenshot 2026-08-19 110819" src="https://github.com/user-attachments/assets/d24af2f2-116c-4252-b92a-4073c67ca632" /># 🎓 COMPLETE xCAT SETUP GUIDE 
+# 🎓 COMPLETE xCAT SETUP GUIDE 
+
 ## Rocky Linux 9.5 — Management Node + Compute Node (Diskful Install)
 ### 📘 For Beginners — Copy-Paste Ready — All Known Issues Pre-Fixed
 
