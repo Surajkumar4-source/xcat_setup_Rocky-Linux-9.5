@@ -1,13 +1,8 @@
 # 🎓 COMPLETE xCAT SETUP GUIDE 
 
 ## Rocky Linux 9.5 — Management Node + Compute Node (Diskful Install)
-### 📘 For Beginners — Copy-Paste Ready — All Known Issues Pre-Fixed
 
----
 
-## 📋 BEFORE YOU START — Read This
-
-This guide is **battle-tested** — every command here already works, because we hit these exact errors and fixed them. Follow **in exact order**, don't skip steps.
 
 ### 🖥️ What You Need
 
