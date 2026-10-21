@@ -1,5 +1,13 @@
 # 🎓 COMPLETE xCAT SETUP GUIDE WITH UNIFIED DASHBOARD
 
+<br>
+
+<img width="1853" height="1023" alt="Screenshot 2026-08-19 110819" src="https://github.com/user-attachments/assets/77dcc413-ed80-4698-a0b1-5f5e9c1fdd77" />
+
+
+<br>
+
+
 ## Rocky Linux 9.5 — Management Node + Compute Node (Diskful Install)
 
 
